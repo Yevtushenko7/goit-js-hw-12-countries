@@ -16,10 +16,10 @@ body {
 }
 
 .js-input {
-  min-width: 500px;
+  min-width: 400px;
   padding: 10px;
   font-family: inherit;
-  font-size: 20px;
+  font-size: 18px;
   border: 1px solid rgba(43, 42, 42, 0.3);
   border-radius: 4px;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
@@ -30,7 +30,6 @@ body {
 }
 
 .js-clear-button {
-  min-width: 100px;
   font-size: 20px;
   font-weight: 600;
   letter-spacing: 0.06em;
@@ -39,4 +38,5 @@ body {
   border-radius: 4px;
   background-color: #e70d0d;
   box-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+  padding: 10px;
 }
